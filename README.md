@@ -89,32 +89,34 @@ Date Table
 
 The dashboard helps identify:
 
-departments with high readmission rates
-top diseases contributing to admissions
-branch-wise revenue performance
-patient demographics by age and gender
-hospital occupancy trends
-financial and operational efficiency
+- departments with high readmission rates
+- top diseases contributing to admissions
+- branch-wise revenue performance
+- patient demographics by age and gender
+- hospital occupancy trends
+- financial and operational efficiency
+---
 
 # Dashboard Preview
 <img width="931" height="548" alt="Screenshot 2026-05-18 154222" src="https://github.com/user-attachments/assets/d2732829-2766-4d55-aace-a4f46e1e2b73" />
 
 # Future Enhancements
 
-Patient-level drillthrough analysis
-Predictive analytics for readmission risk
-Real-time hospital monitoring
-Forecasting patient admissions
-Advanced tooltip and navigation features
+- Patient-level drillthrough analysis
+- Predictive analytics for readmission risk
+- Real-time hospital monitoring
+- Forecasting patient admissions
+- Advanced tooltip and navigation features
+---
 
 # Learning Outcomes
 
 Through this project, I gained practical experience in:
 
-data cleaning and preprocessing
-DAX calculations
-Power BI dashboard development
-healthcare business analytics
-interactive data visualization
-business storytelling with data
-
+- data cleaning and preprocessing
+- DAX calculations
+- Power BI dashboard development
+- healthcare business analytics
+- interactive data visualization
+- business storytelling with data
+---
